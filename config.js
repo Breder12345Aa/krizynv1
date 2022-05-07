@@ -12,13 +12,13 @@
 // and thanks you to who support my Bot
 
 gc1 = 'https://instagram.com/mhdfakri_'
-gc2 = 'https://www.youtube.com/c/HokenBeusz'
+gc2 = 'https://m.youtube.com/channel/UCzJakcNVDiAVnvuFJ4YAoZA' // Tolong jangan lupa untuk langsung subscribe ya
 gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
-global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
-global.owner = ['62895328590064','62895327934887'] // Put your number here //owner eval
-global.kontak = ['62895328590064','62895327934887'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/Eicqi0wT6Ia6QADH4Ukef9'] // ganti jadi group lu
+global.owner = ['62895328590064','62895327934887','16477944776','6289688069444','62895322095252'] // Put your number here //owner eval
+global.kontak = ['6289518487462','16477944776','62895328590064','62895327934887'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
+global.prems = ['62895328590064','62895327934887','16477944776','6289688069444','62895322095252'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -58,24 +58,26 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
+namaig = 'BELUM ADA :)'
+namagithub = 'github.com/devbotmail'
 kasihcaption = `*Kalau udah dikasih, bilang apa?*`
-namakontak1 = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
-namakontak2 = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
+namakontak1 = 'Partner entahlah'
+namakontak2 = 'Owner Utama'
+namakontak3 = 'Pengembang 1'
+namakontak4 = 'pengembang 2'
 
 //kasihcaption = `Kalau udah dikasih, bilang apa?`
 
 // Sticker WM
-global.packname = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
-global.author = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
+global.packname = 'иiSа ьОт ОffiСАL ×፝֟͜×' // ganti aja
+global.author = 'иiSа ьОт ОffiСАL ×፝֟͜×' // ganti aja
 
 //yyy
-'𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '\𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namabot = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namalu = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+'иiSа ьОт ОffiСАL ×፝֟͜×' // Broadcast
+footer = 'иiSа ьОт ОffiСАL ×፝֟͜×' // Broadcast
+footer = '\иiSа ьОт ОffiСАL ×፝֟͜×'
+namabot = 'иiSа ьОт ОffiСАL ×፝֟͜×'
+namalu = 'иiSа ьОт ОffiСАL ×፝֟͜×'
 
 
 // 
