@@ -15,10 +15,10 @@ gc1 = 'https://instagram.com/mhdfakri_'
 gc2 = 'https://www.youtube.com/c/HokenBeusz'
 gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
 global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
-global.owner = ['62895328590064','62895327934887'] // Put your number here //owner eval
-global.kontak = ['62895328590064','62895327934887'] //Ketika ada yang ngetik #owner
+global.owner = ['6281360107561','62895322095252'] // Put your number here //owner eval
+global.kontak = ['6281360107561,'62895322095252'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
+global.prems = ['6281360107561','62895322095252'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
