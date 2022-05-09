@@ -67,12 +67,12 @@ namakontak2 = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
 //kasihcaption = `Kalau udah dikasih, bilang apa?`
 
 // Sticker WM
-global.packname = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
-global.author = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
+global.packname = 'ᴹᴿBOT  ×፝֟͜×' // ganti aja
+global.author = 'ᴹᴿBOT ×፝֟͜×' // ganti aja
 
 //yyy
 '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
+footer = 'BOT×͜×' // Broadcast
 footer = '\𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
 namabot = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
 namalu = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
